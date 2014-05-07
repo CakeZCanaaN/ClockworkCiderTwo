@@ -1,0 +1,7 @@
+You have been given a new serial key! If you want to keep your old one,
+you can write a support ticket containing the following information:
+	1. Your old serial key.
+	2. The schema the serial key is for.
+And we will change your new one back to your old one for you.
+
+Sorry about this, it won't happen again, we promise.

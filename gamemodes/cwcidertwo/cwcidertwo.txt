@@ -1,0 +1,9 @@
+"cwcidertwo"
+{
+	"base"			"Clockwork"
+	"title"			"Cider Two"
+	"version"		"1.02"
+	"author"		"kurozael"
+	"description"	"A roleplaying schema developed by Cloud Sixteen set in a real-life universe."
+	"workshopid"	"128658280"
+}
